@@ -31,7 +31,7 @@
 ## ⭐ Resultado
 O vídeo demonstra rapidamente de forma simples o que as IAs Generativas são capazes de fazer e transformar.
 
-<a href="https://github.com/chellegeek/create-a-podcast-IA/tree/main/output" > 🎬 CLIQUE AQUI para assistir o vídeo </a>
+<a href="https://github.com/chellegeek/video-generate-by-ia/tree/main/v%C3%ADdeo" > 🎬 CLIQUE AQUI para assistir o vídeo </a>
 
 ---
 ## 👩‍💻 Aprendiz
