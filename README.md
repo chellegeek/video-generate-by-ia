@@ -41,7 +41,7 @@ O vídeo demonstra rapidamente de forma simples o que as IAs Generativas são ca
       align=left 
       margin=10 
       width=80 
-      src="https://github.com/chellegeek/my-first-repository/blob/main/IA_images/profile.jpg"
+      src="https://github.com/chellegeek/my-first-repository/blob/main/IA_images/podcaster.jpg"
     />
     <p>&nbsp&nbsp&nbsp&nbspMichelle Garcia<br>
     &nbsp&nbsp&nbsp
